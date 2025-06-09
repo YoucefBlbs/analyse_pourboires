@@ -41,8 +41,12 @@ Le projet est autonome. Les données ont été intégrées et analysées directe
 
 ---
 
-## 📬 Contact
+## 👤 Auteurs
 
-**Youcef Belabbas**  
-🔗 [LinkedIn](https://www.linkedin.com/in/youcef-belabbas-83a86a259/)  
-📩 youcefbelabbas97@gmail.com
+   **Youcef Belabbas**  
+📍 [LinkedIn](https://www.linkedin.com/in/youcef-belabbas-83a86a259/)  
+✉️ youcefbelabbas97@gmail.com
+
+   **Saad Alloumi**  
+📍 [LinkedIn](https://www.linkedin.com/in/saad-alloumi-b1902b1b6/)  
+✉️ saadalloumi@gmail.com
