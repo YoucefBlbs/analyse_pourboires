@@ -11,11 +11,11 @@ Analyse exploratoire des données de pourboires (EDA + visualisations)
 ---
 
 ## 📁 Contenu du dépôt
-
+```
 analyse_pourboires/
 ├── analyse_pourboire.ipynb # Notebook principal avec analyse exploratoire + bivariée
 └── README.md # Ce fichier
----
+```
 ## 🧠 Outils utilisés
 
 - Python 3.x
